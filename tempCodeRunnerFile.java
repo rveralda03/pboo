@@ -1,0 +1,1 @@
+mf.menulis(bulat[j].cariluas(), jenisbangun, j+1);
